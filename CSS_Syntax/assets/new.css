@@ -1,0 +1,27 @@
+body {
+ font-family: Arial, Helvetica, sans-serif; 
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+.ordered-directions {
+  list-style: circle inside;
+}
+
+header > img {
+  width: 100px;
+}
+
+ul > li > a {
+  text-decoration: none;
+}
